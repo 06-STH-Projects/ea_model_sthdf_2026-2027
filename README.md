@@ -73,8 +73,8 @@ git push -u origin ST0XX-package-name
 
 ### Documentation
 
-The full guide (from downloading the `.qea` to merging, EN and SK) will be the KNIFE article
-[K000002 – Git workflow for EA models](https://knifes.systemthinking.sk/).
+- **How we work in class (EN):** [EA model – how we work](https://sthdf-2026.systemthinking.sk/en/sthdf/ea-model/)
+- **General guide (KNIFE, work in progress):** [K000002 – Git workflow for EA models](https://knifes.systemthinking.sk/en/knifes/K000002-git-workflow-for-ea-models/)
 
 ---
 
@@ -116,5 +116,5 @@ git push -u origin ST0XX-nazov-balika
 
 ### Dokumentácia
 
-Podrobný návod (od stiahnutia `.qea` po merge, EN aj SK) bude KNIFE
-[K000002 – Git workflow pre EA modely](https://knifes.systemthinking.sk/).
+- **Ako pracujeme v triede (SK):** [EA model – ako pracujeme](https://sthdf-2026.systemthinking.sk/sk/sthdf/ea-model/)
+- **Všeobecný návod (KNIFE, rozpracovaný):** [K000002 – Git workflow pre EA modely](https://knifes.systemthinking.sk/sk/knifes/K000002-git-workflow-pre-ea-modely/)

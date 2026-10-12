@@ -1,0 +1,11 @@
+# Zamykacie a dočasné súbory Enterprise Architect (príponu si over vo svojej verzii EA)
+*.ldb
+*.laccdb
+*-journal
+*.qea.bak
+*.bak
+~$*
+
+# OS
+.DS_Store
+Thumbs.db

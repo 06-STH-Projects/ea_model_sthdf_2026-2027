@@ -1,0 +1,4 @@
+# EA model (.qea) je binárna SQLite databáza -> Git ju nesmie diffovať ani automaticky mergovať.
+# Merge sa robí lokálne v LemonTree (parent / ours / theirs).
+*.qea  binary
+*.qeax binary
